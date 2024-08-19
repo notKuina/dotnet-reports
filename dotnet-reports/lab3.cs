@@ -3,7 +3,7 @@
 namespace lab3
 {
     class UserInfo
-    {/*
+    {
         static void Main(string[] args)
         {
             Console.Write("Please enter your name: ");
@@ -22,5 +22,5 @@ namespace lab3
 
             Console.ReadKey();
         }
-   */ }
+    }
 }
