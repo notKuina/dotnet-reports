@@ -7,7 +7,7 @@ namespace lab10
         static void Main(string[] args)
         {
             Console.Write("Please enter an alphabet: ");
-            char alphabet = char.ToLower(Console.ReadKey().KeyChar); // Convert to lowercase for simplicity
+            char alphabet = char.ToLower(Console.ReadKey().KeyChar); 
 
             switch (alphabet)
             {
