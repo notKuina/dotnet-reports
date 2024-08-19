@@ -9,7 +9,7 @@ namespace lab1
         {
             Console.Write("Please enter your name: ");
             string userName = Console.ReadLine();
-            Console.WriteLine($"Welcome {userName}!");
+            Console.WriteLine($"Welcome {userName},to dotnet technology");
             Console.ReadKey();
         }
     }
