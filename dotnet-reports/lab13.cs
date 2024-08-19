@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace Slab13
+namespace lab13
 {
     class StringArrayToString
     {
